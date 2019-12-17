@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-LifeHelper.iml" filepath="$PROJECT_DIR$/Android-LifeHelper.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LifeHelper.iml" filepath="$PROJECT_DIR$/.idea/LifeHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/LifeHelper-android.iml" filepath="$PROJECT_DIR$/android/LifeHelper-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/LifeHelper-app.iml" filepath="$PROJECT_DIR$/app/LifeHelper-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book/LifeHelper-book.iml" filepath="$PROJECT_DIR$/book/LifeHelper-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/douban/LifeHelper-douban.iml" filepath="$PROJECT_DIR$/douban/LifeHelper-douban.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gank/LifeHelper-gank.iml" filepath="$PROJECT_DIR$/gank/LifeHelper-gank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/LifeHelper-library.iml" filepath="$PROJECT_DIR$/library/LifeHelper-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/love/LifeHelper-love.iml" filepath="$PROJECT_DIR$/love/LifeHelper-love.iml" />
+      <module fileurl="file://$PROJECT_DIR$/music/LifeHelper-music.iml" filepath="$PROJECT_DIR$/music/LifeHelper-music.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvvm/LifeHelper-mvvm.iml" filepath="$PROJECT_DIR$/mvvm/LifeHelper-mvvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news/LifeHelper-news.iml" filepath="$PROJECT_DIR$/news/LifeHelper-news.iml" />
+      <module fileurl="file://$PROJECT_DIR$/note/LifeHelper-note.iml" filepath="$PROJECT_DIR$/note/LifeHelper-note.iml" />
+      <module fileurl="file://$PROJECT_DIR$/other/LifeHelper-other.iml" filepath="$PROJECT_DIR$/other/LifeHelper-other.iml" />
+      <module fileurl="file://$PROJECT_DIR$/todo/LifeHelper-todo.iml" filepath="$PROJECT_DIR$/todo/LifeHelper-todo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video/LifeHelper-video.iml" filepath="$PROJECT_DIR$/video/LifeHelper-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhiHu/LifeHelper-zhiHu.iml" filepath="$PROJECT_DIR$/zhiHu/LifeHelper-zhiHu.iml" />
       <module fileurl="file://$PROJECT_DIR$/android/android.iml" filepath="$PROJECT_DIR$/android/android.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/book/book.iml" filepath="$PROJECT_DIR$/book/book.iml" />

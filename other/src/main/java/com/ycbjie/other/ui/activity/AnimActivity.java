@@ -36,15 +36,11 @@ public class AnimActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public void onClick(View v) {
-        switch (v.getId()) {
-            case R.id.btn:
-                startAnimating();
-                break;
-            case R.id.btn2:
-                stopAnimating();
-                break;
-            default:
-                break;
+        int id = v.getId();
+        if (id == R.id.btn) {
+            startAnimating();
+        } else if (id == R.id.btn2) {
+            stopAnimating();
         }
     }
 
